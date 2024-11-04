@@ -221,8 +221,6 @@ STEP 2: `conda activate rppg-toolbox`
 
 STEP 3: `bash install.sh`
 
-STEP 4: `bash install.sh`
-
 # :computer: Example of Using Pre-trained Models 
 
 Please use config files under `./configs/infer_configs`
